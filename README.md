@@ -1,4 +1,4 @@
-### ARMJACK
+### ARMJACK (BlACKJACK)
 Group project of microprocessor course
 
 ## Game Description
