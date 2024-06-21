@@ -6,3 +6,6 @@ The game is similar to drawing cards with values ranging from one up to eleven. 
 
 ## Gameplay
 To start the game, we press and release the 0 push button. And a random number from 1 to 11 comes up. We press and release the 0 button until we get 21. The numbers of the incoming cards are added up and the total is reflected on the seven-segment display. For win condition; When the total reaches 21, 21 flashes on the seven-segment display and the LEDs blink. For lose condition; When the total exceeds 21, LOSE text is displayed on the seven-segment display. 
+
+## Flowchart
+![ARMJACK drawio](https://github.com/alimertgok/ARMJACK/assets/73309623/692cc9a4-32bf-4e2e-9242-9c916e0a74a5)
